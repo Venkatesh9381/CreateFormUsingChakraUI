@@ -30,4 +30,4 @@ Install the dependencies by running npm install.
 Start the development server by running npm start.
 Open your browser and navigate to http://localhost:3000.
 Deployment
-The project is deployed on Vercel. You can view the deployed project at https://create-form-using-chakra-ui.vercel.app/.
+The project is deployed on Vercel. You can view the deployed project at https://create-form-using-chakra-ui.vercel.app/
